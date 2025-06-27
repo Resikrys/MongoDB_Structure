@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "685d2d977904da4dceba9c35"
+  },
+  "brand": "Ray-Ban",
+  "lens_graduation": {
+    "right_lens": -2.5,
+    "left_lens": -2.75
+  },
+  "color_lens": {
+    "right_lens": "Dark grey",
+    "left_lens": "Dark gray"
+  },
+  "frame_material": "Plastic",
+  "frame_color": "Brilliant Black",
+  "price": 120,
+  "supplier_id": {
+    "$oid": "685d281c7904da4dceba9c0c"
+  }
+},
+{
+  "_id": {
+    "$oid": "685d2d977904da4dceba9c36"
+  },
+  "brand": "Oakley",
+  "lens_graduation": {
+    "right_lens": 0,
+    "left_lens": 0
+  },
+  "color_lens": {
+    "right_lens": "Polarized Blue",
+    "left_lens": "Polarized Blue"
+  },
+  "frame_material": "Plastic",
+  "frame_color": "Transparent",
+  "price": 185.5,
+  "supplier_id": {
+    "$oid": "685d28527904da4dceba9c0d"
+  }
+},
+{
+  "_id": {
+    "$oid": "685d2d977904da4dceba9c37"
+  },
+  "brand": "Prada",
+  "lens_graduation": {
+    "right_lens": 1.25,
+    "left_lens": 1
+  },
+  "color_lens": {
+    "right_lens": "Light brown",
+    "left_lens": "Light brown"
+  },
+  "frame_material": "Metal",
+  "frame_color": "Golden",
+  "price": 250,
+  "supplier_id": {
+    "$oid": "685d28527904da4dceba9c0d"
+  }
+},
+{
+  "_id": {
+    "$oid": "685d2d977904da4dceba9c38"
+  },
+  "brand": "Arnette",
+  "lens_graduation": {
+    "right_lens": -0.5,
+    "left_lens": -0.75
+  },
+  "color_lens": {
+    "right_lens": "Grey",
+    "left_lens": "Grey"
+  },
+  "frame_material": "Floating",
+  "frame_color": "Solid Pink",
+  "price": 85.99,
+  "supplier_id": {
+    "$oid": "685d28657904da4dceba9c0e"
+  }
+},
+{
+  "_id": {
+    "$oid": "685d2d977904da4dceba9c39"
+  },
+  "brand": "Carrera",
+  "lens_graduation": {
+    "right_lens": 0,
+    "left_lens": 0
+  },
+  "color_lens": {
+    "right_lens": "Green G-15",
+    "left_lens": "Green G-15"
+  },
+  "frame_material": "Metal",
+  "frame_color": "Silver",
+  "price": 145.75,
+  "supplier_id": {
+    "$oid": "685d28657904da4dceba9c0e"
+  }
+}]

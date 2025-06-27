@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "685d2f587904da4dceba9c46"
+  },
+  "date": "2024-05-20T10:30:00Z",
+  "client_id": {
+    "$oid": "685d28fe7904da4dceba9c13"
+  },
+  "employee_id": {
+    "$oid": "685d2dbd7904da4dceba9c3c"
+  },
+  "glasses_id": {
+    "$oid": "685d2d977904da4dceba9c37"
+  }
+},
+{
+  "_id": {
+    "$oid": "685d2f587904da4dceba9c47"
+  },
+  "date": "2024-06-15T14:45:00Z",
+  "client_id": {
+    "$oid": "685d29307904da4dceba9c15"
+  },
+  "employee_id": {
+    "$oid": "685d2dbd7904da4dceba9c3e"
+  },
+  "glasses_id": {
+    "$oid": "685d2d977904da4dceba9c39"
+  }
+},
+{
+  "_id": {
+    "$oid": "685d2f587904da4dceba9c48"
+  },
+  "date": "2024-06-25T11:00:00Z",
+  "client_id": {
+    "$oid": "685d28c47904da4dceba9c12"
+  },
+  "employee_id": {
+    "$oid": "685d2dbd7904da4dceba9c3d"
+  },
+  "glasses_id": {
+    "$oid": "685d2d977904da4dceba9c38"
+  }
+}]

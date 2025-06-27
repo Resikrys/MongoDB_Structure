@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "685d287e7904da4dceba9c11"
+  },
+  "name": "Sherlock",
+  "surname": "Holmes",
+  "adress": {
+    "street": "Baker Street",
+    "number": "221",
+    "floor": "1",
+    "door": "B",
+    "city": "London",
+    "postal_code": "EC1A 1AL",
+    "country": "England"
+  },
+  "phone": "+44 2071234567",
+  "email": "sholmes@detective.uk",
+  "registered_date": {
+    "$date": "2023-01-10T10:00:00.000Z"
+  },
+  "refered_by": {
+    "$oid": null
+  }
+},
+{
+  "_id": {
+    "$oid": "685d28c47904da4dceba9c12"
+  },
+  "name": "Happy",
+  "surname": "Doggo",
+  "adress": {
+    "street": "Happy Fields",
+    "number": "213",
+    "floor": "1",
+    "door": "C",
+    "city": "Oakvale",
+    "postal_code": "001412 AZ",
+    "country": "Mystria"
+  },
+  "phone": "+00 130021412",
+  "email": "happy@doggy.com",
+  "registered_date": {
+    "$date": "2025-07-13T11:05:30.000Z"
+  },
+  "refered_by": {
+    "$oid": "685d287e7904da4dceba9c11"
+  }
+},
+{
+  "_id": {
+    "$oid": "685d28fe7904da4dceba9c13"
+  },
+  "name": "Allegretto",
+  "surname": "Caelum",
+  "adress": {
+    "street": "Old forest bridge",
+    "number": "02",
+    "floor": "3",
+    "door": "C",
+    "city": "Mk'phor",
+    "postal_code": "031245 IU",
+    "country": "MundoDisco"
+  },
+  "phone": "+021 147852369",
+  "email": "youngWizard@invisibleuniversity.ui",
+  "registered_date": {
+    "$date": "2024-06-23T14:30:00.000Z"
+  },
+  "refered_by": {
+    "$oid": "685d28c47904da4dceba9c12"
+  }
+},
+{
+  "_id": {
+    "$oid": "685d29197904da4dceba9c14"
+  },
+  "name": "Terry",
+  "surname": "Dosflores",
+  "adress": {
+    "street": "Sanctuary rambla",
+    "number": "015",
+    "floor": "37",
+    "door": "K",
+    "city": "Sanctum",
+    "postal_code": "90182 H",
+    "country": "Pandemonium"
+  },
+  "phone": "+00 130021412",
+  "email": "thetourist@gmail.com",
+  "registered_date": {
+    "$date": "2024-11-13T11:05:30.000Z"
+  },
+  "refered_by": {
+    "$oid": "685d28c47904da4dceba9c12"
+  }
+},
+{
+  "_id": {
+    "$oid": "685d29307904da4dceba9c15"
+  },
+  "name": "Yue",
+  "surname": "Moon",
+  "adress": {
+    "street": "Tiny Central Plaza",
+    "number": "13",
+    "floor": "2",
+    "door": "D",
+    "city": "Hong kong",
+    "postal_code": "HK2B 1HK",
+    "country": "China"
+  },
+  "phone": "+021 987123654",
+  "email": "tinyevil@doggy.com",
+  "registered_date": {
+    "$date": "2025-06-13T14:30:00.000Z"
+  },
+  "refered_by": {
+    "$oid": null
+  }
+}]
