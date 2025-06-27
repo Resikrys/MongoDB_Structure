@@ -54,14 +54,6 @@ Diagram:
 - `email`: *String*
 
 #### 📄 Task 2:
-Design a MongoDB database that will store the required data for the following page:
-![statement](mongodb_task.png)
-
-Draw.io file: `mongoDB_diagram_drawio.txt`
-
-Diagram:
-![optics-1-diagram](BottleButtOptics_diagram_drawio.png)
-
 ### Focus: Glasses-centric design
 
 Each glasses document acts as an entry point to:
@@ -72,9 +64,8 @@ Each glasses document acts as an entry point to:
 - A list of clients shows who bought those glasses.
 - Clicking on a client opens their personal record.
 
-
 ### Project Structure:
-mongodb-structure/
+```mongodb-structure/
 ├── README.md
 ├── data/
 │   ├── clients.json
@@ -85,6 +76,7 @@ mongodb-structure/
 └── scripts/              // Optional: added script example to populate the DB
     └── db_initialization_script.js
     └── import_data.sh 
+```
 
 ### 💻 Technologies Used:
 
